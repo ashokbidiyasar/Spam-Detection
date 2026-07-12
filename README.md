@@ -32,7 +32,7 @@ The dataset is loaded, cleaned, and deduplicated before any vocabulary is built.
 
 The dataset is available on **Kaggle**:
 
-👉 [Spam Emails Dataset on Kaggle](https://www.kaggle.com/datasets/search?q=spam+emails) ← *(replace with the exact dataset URL)*
+👉 [[Spam Emails Dataset on Kaggle](https://www.kaggle.com/datasets/search?q=spam+emails)](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification) 
 
 **Steps:**
 1. Go to the Kaggle dataset page
