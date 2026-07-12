@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large ML files (download separately)
+glove.6B.*
+*.pt
+*.bin
+
+# Model artifacts (regenerate with train.py)
+# Comment these out if you want to include the trained model in git
+# model/model.pkl
+# model/vectorizer.pkl
+
+# Logs and temp
+*.log
+*.tmp
+hyperparameter_comparison.csv
+model_predictions_examples.csv
+best_model_*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Datasets
+dataset/email_dataset.csv
+dataset/spam_Emails_data.csv
